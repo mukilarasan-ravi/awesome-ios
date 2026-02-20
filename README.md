@@ -775,6 +775,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 
 *File management, file browser, zip handling and file observers.*
 
+- [MRFileBrowser](https://github.com/mukilarasan-ravi/MRFileBrowser) - A highly flexible and customizable, feature-rich SwiftUI framework built to provide advanced file and folder selection, browsing, and management capabilities within iOS applications.
 - [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
 - [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - Powerful Swift file browser for iOS.
